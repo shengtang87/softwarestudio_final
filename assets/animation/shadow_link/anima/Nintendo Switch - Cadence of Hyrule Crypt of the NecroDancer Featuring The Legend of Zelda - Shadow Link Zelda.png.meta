@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "72421fa6-6dcc-4619-aa1f-e250c3606f06",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1125,
+  "height": 1348,
+  "platformSettings": {},
+  "subMetas": {
+    "Nintendo Switch - Cadence of Hyrule Crypt of the NecroDancer Featuring The Legend of Zelda - Shadow Link Zelda": {
+      "ver": "1.0.6",
+      "uuid": "2fb8c348-4f46-445d-bedf-1d6018ab4dac",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "72421fa6-6dcc-4619-aa1f-e250c3606f06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1125,
+      "height": 1348,
+      "rawWidth": 1125,
+      "rawHeight": 1348,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

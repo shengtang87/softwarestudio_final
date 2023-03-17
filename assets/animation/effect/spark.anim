@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "spark",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b7d151c9-a2b1-4bdb-b40d-4affdc99101d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "016b0e77-f9cc-47ca-9d04-cf0ba7f13317"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "d374890b-791f-4b97-a7cc-2464e08e7a2b"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "1fba924b-6946-4c4a-9eee-077add3aa7c4"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "24b689f2-11d6-405d-be00-f81b4352d63d"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b7d151c9-a2b1-4bdb-b40d-4affdc99101d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,413 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "link",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      },
+      {
+        "__id__": 7
+      },
+      {
+        "__id__": 8
+      },
+      {
+        "__id__": 9
+      }
+    ],
+    "_prefab": {
+      "__id__": 10
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 23,
+      "height": 30
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        484.296,
+        224.069,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 1,
+    "groupIndex": 1,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "line",
+    "_objFlags": 0,
+    "_parent": {
+      "__id__": 1
+    },
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Graphics",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 2
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "a153945d-2511-4c14-be7b-05d242f47d57"
+      }
+    ],
+    "_lineWidth": 3,
+    "_strokeColor": {
+      "__type__": "cc.Color",
+      "r": 0,
+      "g": 255,
+      "b": 245,
+      "a": 100
+    },
+    "_lineJoin": 2,
+    "_lineCap": 0,
+    "_fillColor": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_miterLimit": 10,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "64H1D5gE5Bq7FmNGuvzvgt",
+    "sync": false
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_materials": [
+      {
+        "__uuid__": "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432"
+      }
+    ],
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_spriteFrame": {
+      "__uuid__": "3954ebd8-1984-41c5-a18e-03920e6c2363"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_atlas": null,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "85d84265-9e53-4f70-adae-cf6747f284ec"
+    },
+    "_clips": [
+      {
+        "__uuid__": "d79ef270-88be-4f55-927c-f10320ce2e74"
+      },
+      {
+        "__uuid__": "fb855a39-186f-4625-bf0c-912f1a4cf0b1"
+      },
+      {
+        "__uuid__": "846ac13f-1cad-4965-bd0b-096ee3831472"
+      },
+      {
+        "__uuid__": "a6a4de14-a18d-4cc0-b827-0363e7c1955b"
+      },
+      {
+        "__uuid__": "a75513b5-bd17-402c-979f-1bce0047114a"
+      },
+      {
+        "__uuid__": "e51309b7-8f33-4522-984b-392aa746417f"
+      },
+      {
+        "__uuid__": "0af5e259-ccb5-4f0d-814d-36caef648952"
+      },
+      {
+        "__uuid__": "acd25720-466b-47d9-a3ab-82d6c4bc3d5f"
+      },
+      {
+        "__uuid__": "b1adf3ec-f7ef-4424-9d18-fff70077f76e"
+      },
+      {
+        "__uuid__": "36d72464-4b9b-4b15-9084-94e6b418f5c8"
+      },
+      {
+        "__uuid__": "85d84265-9e53-4f70-adae-cf6747f284ec"
+      },
+      {
+        "__uuid__": "223fa944-a104-463c-86a2-d34099b712c0"
+      },
+      {
+        "__uuid__": "8ce2e074-c838-4fa0-a18b-2d93dd34637e"
+      },
+      {
+        "__uuid__": "6fac3783-d8f1-4424-b60f-cfa0f4165989"
+      },
+      {
+        "__uuid__": "23bc9069-e234-4d39-99f8-d41f072b13e3"
+      },
+      {
+        "__uuid__": "4cd55454-96c6-4e54-b7c0-029c476eacee"
+      },
+      {
+        "__uuid__": "f7e9af17-9550-41f5-ae6c-ee42f672f6df"
+      },
+      {
+        "__uuid__": "43eaf1f4-e523-4b60-b81a-eba9dfc71993"
+      },
+      {
+        "__uuid__": "75429622-178a-4539-aee8-df9fd6b6230f"
+      },
+      {
+        "__uuid__": "58da2d5f-0e6c-401f-9043-c47b106c7c67"
+      },
+      {
+        "__uuid__": "d9ef328e-fe47-4810-b262-597701f93250"
+      },
+      {
+        "__uuid__": "d6f396cc-3958-448e-ba00-40e5837ccbbd"
+      }
+    ],
+    "playOnLoad": false,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.RigidBody",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_type": 2,
+    "_allowSleep": true,
+    "_gravityScale": 0,
+    "_linearDamping": 0,
+    "_angularDamping": 0,
+    "_linearVelocity": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_angularVelocity": 0,
+    "_fixedRotation": true,
+    "enabledContactListener": true,
+    "bullet": false,
+    "awakeOnLoad": true,
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PhysicsBoxCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 3,
+    "_density": 1,
+    "_sensor": false,
+    "_friction": 0.2,
+    "_restitution": 0,
+    "body": null,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": -5
+    },
+    "_size": {
+      "__type__": "cc.Size",
+      "width": 23,
+      "height": 20
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "ad074LaCzVEVaIQPCJDkS5Z",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "pickupball_sound": {
+      "__uuid__": "cd58e098-1915-46fd-b509-143facf70e76"
+    },
+    "throwball_sound": {
+      "__uuid__": "9d0904c1-acd0-4d2c-94ac-6e42166d5f7c"
+    },
+    "pickupmana_sound": {
+      "__uuid__": "0b75d0f9-55f0-4c5e-8298-94ef084dad21"
+    },
+    "hurt_sound": {
+      "__uuid__": "c549da14-703f-4bc0-9c81-2ed0762062a1"
+    },
+    "die_sound": {
+      "__uuid__": "c3cf2995-58bc-48b3-b13c-c7aa4cb6d145"
+    },
+    "catch_sound": {
+      "__uuid__": "b776ef40-3969-4137-9426-49ef4b7b2b99"
+    },
+    "line": {
+      "__id__": 2
+    },
+    "ballPrefab": {
+      "__uuid__": "e74edc59-c21f-4408-a495-3373912a52fc"
+    },
+    "airwall": {
+      "__uuid__": "76d6ff90-9491-4588-8f8c-50ef555af08e"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "",
+    "sync": false
+  }
+]

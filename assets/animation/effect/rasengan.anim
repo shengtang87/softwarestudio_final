@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "rasengan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9632fc33-fb28-4b6b-96f9-9f14e6d474e2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "7708707b-8eef-41d0-8daf-fecc941cb0aa"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "387fd7fd-b233-46b0-a990-cd5adb7aa00c"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "e2ea7288-078f-4caf-95ea-8d192abda565"
+            }
+          },
+          {
+            "frame": 0.31666666666666665,
+            "value": {
+              "__uuid__": "9632fc33-fb28-4b6b-96f9-9f14e6d474e2"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "9632fc33-fb28-4b6b-96f9-9f14e6d474e2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

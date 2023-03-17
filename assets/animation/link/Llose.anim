@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "lose",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "6fd8d0ea-5d45-4da2-a097-b166cc1f508b"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ce576014-18f6-4384-9fe0-e37068fe219f"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "7c39935e-651d-466a-9695-a54f78db5260"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "0640e31c-9eae-4f49-b9c4-a4d8d3b5e422"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

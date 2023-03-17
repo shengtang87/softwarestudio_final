@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ras_dust",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c7de81d7-605a-43c6-af24-52577c45a0e2"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d1e15164-f4f4-4a32-a822-0c4dbf4df291"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "1db818f6-ebd0-4880-ad6c-396d1e8cd540"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "70e9bca8-0af6-4456-b572-d9f980fd62c4"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "c7de81d7-605a-43c6-af24-52577c45a0e2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

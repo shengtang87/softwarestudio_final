@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt_from_right",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "e9b8f456-c5e6-4922-ad11-978bff68ae98"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "1a074a65-694f-428a-b286-b91229545262"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "ff5c6543-3cf9-42f5-a24b-765c711dcad1"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

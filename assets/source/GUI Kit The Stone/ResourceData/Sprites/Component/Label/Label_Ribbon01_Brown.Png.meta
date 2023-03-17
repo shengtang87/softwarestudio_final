@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e0e73d96-83e5-4100-8bab-4af0557e19a5",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "point",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 524,
+  "height": 137,
+  "platformSettings": {},
+  "subMetas": {
+    "Label_Ribbon01_Brown": {
+      "ver": "1.0.6",
+      "uuid": "ffb678ef-bb5d-4d1a-9214-69e747de77a6",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e0e73d96-83e5-4100-8bab-4af0557e19a5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 524,
+      "height": 137,
+      "rawWidth": 524,
+      "rawHeight": 137,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

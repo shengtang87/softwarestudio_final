@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "throw_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "b05a8d0c-965e-43c2-bdbd-39e92646c30e"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "9574659f-9c94-4d25-9031-3127241a17e7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4074a4aa-9707-416c-828b-39eb7dad00f5"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "dfac4659-d57e-4450-9762-a4de9065840d"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "959bb858-4b9a-45ff-b1f2-3718a1528b53"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6cf538a4-3947-4684-b7ee-bec07b9da88f"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "5ae27f1d-2c5b-450a-8419-13b0a51d72bd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

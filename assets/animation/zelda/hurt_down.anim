@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt_from_down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a665de0b-b3eb-46ab-8638-73cdd491ce37"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "d1f1d1c2-d979-494d-89b9-5372473827d7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "be3a3297-5395-456c-ad20-65e542ee094a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

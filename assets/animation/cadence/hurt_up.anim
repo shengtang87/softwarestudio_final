@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt_up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d7033d3a-a67c-49ca-8f60-ca05f9c8c59d"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "02637e56-0c36-4384-9263-8719f8411e03"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "653d5f21-b454-4c1a-b423-0daabc0c2e94"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

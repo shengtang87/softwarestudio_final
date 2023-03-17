@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "win",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "a589d594-6c72-4e68-8eb7-59809fcedbe4"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "6a9f2f95-062d-4a5e-b4c5-3b8d60d23de5"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4136aa5b-5f7d-4029-b707-5a2efa0f6605"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "2cddfa13-a23e-4101-95a2-5694f6dea1f8"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "28dff2d5-ed30-44db-ae40-0a483980ac87"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "15e26d5b-225a-4b88-a1bd-ffa853be644c"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "8d0bfae1-4e67-49f7-868b-ff658d7c8fcd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

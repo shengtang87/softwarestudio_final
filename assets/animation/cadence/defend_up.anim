@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "defend_up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3006554e-28f1-452b-931b-230b7c09377b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "a24f0464-2369-410b-9a20-810756e55d7a"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "3c3a47ac-dc1f-467c-8c69-84965acd83bc"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "928fd97f-a453-4493-bc04-ea0c1fb73540"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "e6a9b69b-1007-49f3-820f-f4e7b2af2212"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7b954196-d0d5-4446-ace8-878d74d61e4a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

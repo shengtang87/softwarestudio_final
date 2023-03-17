@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "hurt_from_up",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fdc78dda-2a86-46bc-91ff-640c5f446f84"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "45cef531-7e86-41f7-9ba6-45c2fb978ec4"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "de0f0289-9e68-411c-898e-7c28a000f5f2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
